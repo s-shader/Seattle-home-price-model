@@ -8,8 +8,13 @@
 # Process & Tools Used:
 ## kc_house_data.csv (file provided)
 
-## Initial findings 
-### I analyzed movies by three metrics: 
+# Initial findings 
+## I started with three question:
+### Q1: How significant is location on price?
+### Q2: Is outdoor space i.e. squarefootage in the 'lot' that is not accupied by the house, usefull?
+### Q3: Does the neighborhood a house is in matter?
+
+
 
 
 
