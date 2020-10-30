@@ -34,7 +34,7 @@
 
 # Model
 ### An initial model with only the initial built in variables has a testing MSE of 44,553,462,124.30715 and an R^2 or 0.669
-OLS graph
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/init.%20model.png)
 ### Adding in dummy variable brings the test MSE down to 25,033,004,505.2455 and bring the R^2 up to 0.816
 ### I added age (the year a homes was sold minus the year it was built) and usage (what percent of a home's lot is taken up by the home). This brings downt the test MSE to 24,850,711,454.54593 but also brings down the R^2 to 0.811
 ### Next, I got rid of bedrooms since it had a negative coeficient and replaced it with a bed/bath ratio. This brought the MSE back up to 26,466,816,784,675.883 and the the R^2 back up to 0.816
