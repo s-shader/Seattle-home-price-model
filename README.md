@@ -30,7 +30,7 @@
 ![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/sqft_living15%20v%20price.png)
 ![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/sqft_lot15%20v%20price.png)
 ![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/home%20v%2015.png)
-## A home's neighborhood i.e. 15 closest houses looks to be a reasonable predictor of said hom'es sqft, however, it holds a more limmited abilty to predict lot size. Additionally, and more significantly, neighther appear to be good predictors of price.   
+## A3: home's neighborhood i.e. 15 closest houses looks to be a reasonable predictor of said hom'es sqft, however, it holds a more limmited abilty to predict lot size. Additionally, and more significantly, neighther appear to be good predictors of price.   
 
 # Model
 ### An initial model with only the initial built in variables has a testing MSE of 44,553,462,124.30715 and an R^2 or 0.669
