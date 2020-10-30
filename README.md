@@ -39,7 +39,7 @@
 ### I added age (the year a homes was sold minus the year it was built) and usage (what percent of a home's lot is taken up by the home). This brings downt the test MSE to 24,850,711,454.54593 but also brings down the R^2 to 0.811
 ### Next, I got rid of bedrooms since it had a negative coeficient and replaced it with a bed/bath ratio. This brought the MSE back up to 26,466,816,784,675.883 and the the R^2 back up to 0.816
 ### After an iterative process of dropping variable with high P-values and badly fitting variables I settled on a final model with a test MSE of 24,585,700,133.95531 and an R^2 of 0.813
-ols graph
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/final%20model.png)
 
 # Conclusions
 ## With an R^2 over 0.8 and an RMSE under $160,000 my model appears to do a reasonable job at predicting the effect of certain homes feutures. 
