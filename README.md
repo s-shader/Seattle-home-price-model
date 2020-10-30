@@ -22,15 +22,14 @@
 ## A1: Homes of all values seem to be spread arount with no particular long or lat being a good predictor for price. Simmilarly, while zipcode is a poor predictor of price, most of the more expensize homes are concentrated in a few zipcodes.
 
 ## Q2:
-graph usage
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/usage%20v%20price.png)
 ### Home price and Usage (a home's sqft/lot size) havea correlation coeficcient of 0.2
 ## A2: The size of a home relative to the size of it's lot does not appear to have a signifigant effect on price.
 
 ## Q3:
-corr
-corr
-graph
-graph
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/sqft_living15%20v%20price.png)
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/sqft_lot15%20v%20price.png)
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/home%20v%2015.png)
 ## A home's neighborhood i.e. 15 closest houses looks to be a reasonable predictor of said hom'es sqft, however, it holds a more limmited abilty to predict lot size. Additionally, and more significantly, neighther appear to be good predictors of price.   
 
 # Model
