@@ -15,10 +15,10 @@
 ### Q3: Does the neighborhood a house is in matter?
 
 ## Q1:
-https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/lat%20v%20price.png
-https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/long%20v%20price.png
-https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/lat:long%20map.png
-https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/zipcode%20v%20price.png
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/lat%20v%20price.png)
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/long%20v%20price.png)
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/lat:long%20map.png)
+![alt text](https://github.com/s-shader/Seattle-home-price-model/blob/main/KC_pics/zipcode%20v%20price.png)
 ## A1: Homes of all values seem to be spread arount with no particular long or lat being a good predictor for price. Simmilarly, while zipcode is a poor predictor of price, most of the more expensize homes are concentrated in a few zipcodes.
 
 ## Q2:
